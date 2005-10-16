@@ -6,7 +6,7 @@ Release:	0.%{_beta}.1
 License:	GPL v2
 Group:		Applications
 Source0:	http://nixgeneration.com/~jaime/netdiscover/releases/%{name}-%{version}-%{_beta}.tar.gz
-# Source0-md5:	d41d8cd98f00b204e9800998ecf8427e
+# Source0-md5:	de30ff57b01584789d6bec0d1466e66d
 URL:		http://nixgeneration.com/~jaime/netdiscover/
 BuildRequires:	libnet-devel
 BuildRequires:	libpcap-devel
