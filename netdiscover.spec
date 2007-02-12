@@ -1,5 +1,5 @@
 Summary:	Netdiscover - an active/passive address reconnaissance tool
-Summary(pl):	Netdiscover - aktywno-pasywne narzêdzie do wyszukiwania adresów
+Summary(pl.UTF-8):   Netdiscover - aktywno-pasywne narzÄ™dzie do wyszukiwania adresÃ³w
 Name:		netdiscover
 Version:	0.3
 %define		_beta	beta5
@@ -19,10 +19,10 @@ Netdiscover is an active/passive address reconnaissance tool, mainly
 developed for those wireless networks without DHCP server, when you
 are wardriving. It can be also used on hub/switched networks.
 
-%description -l pl
-Netdiscover to aktywno-pasywne narzêdzie do wyszukiwania adresów,
-stworzone g³ównie dla sieci bezprzewodowych bez serwera DHCP. Mo¿e
-byæ u¿ywane tak¿e w sieciach opartych o huby/switche.
+%description -l pl.UTF-8
+Netdiscover to aktywno-pasywne narzÄ™dzie do wyszukiwania adresÃ³w,
+stworzone gÅ‚Ã³wnie dla sieci bezprzewodowych bez serwera DHCP. MoÅ¼e
+byÄ‡ uÅ¼ywane takÅ¼e w sieciach opartych o huby/switche.
 
 %prep
 %setup -q -n %{name}-%{version}-%{_beta}
