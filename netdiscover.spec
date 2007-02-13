@@ -1,5 +1,5 @@
 Summary:	Netdiscover - an active/passive address reconnaissance tool
-Summary(pl.UTF-8):   Netdiscover - aktywno-pasywne narzędzie do wyszukiwania adresów
+Summary(pl.UTF-8):	Netdiscover - aktywno-pasywne narzędzie do wyszukiwania adresów
 Name:		netdiscover
 Version:	0.3
 %define		_beta	beta5
