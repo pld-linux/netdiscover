@@ -2,12 +2,12 @@ Summary:	Netdiscover - an active/passive address reconnaissance tool
 Summary(pl.UTF-8):	Netdiscover - aktywno-pasywne narzędzie do wyszukiwania adresów
 Name:		netdiscover
 Version:	0.3
-%define		_beta	beta5
+%define		_beta	beta6
 Release:	0.%{_beta}.1
 License:	GPL v2
 Group:		Applications
 Source0:	http://nixgeneration.com/~jaime/netdiscover/releases/%{name}-%{version}-%{_beta}.tar.gz
-# Source0-md5:	de30ff57b01584789d6bec0d1466e66d
+# Source0-md5:	0919227a91ecaeeb2443cff249417be2
 URL:		http://nixgeneration.com/~jaime/netdiscover/
 BuildRequires:	libnet-devel
 BuildRequires:	libpcap-devel
